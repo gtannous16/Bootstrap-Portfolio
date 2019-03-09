@@ -40,6 +40,23 @@ footer {
     bottom: 0;
     width: 100%;
     border-top: 5px solid #4aaaa5;
-    padding: 35px;
+    padding: 25px;
     clear: both;
     background: #666666;
+}
+
+.portfolio {
+    width: 50%;
+    margin: auto;
+}
+
+.card {
+    margin: 10px;
+}
+
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: grey;
+}
+
