@@ -14,9 +14,10 @@ h1 {
 }
 
 .container {
-    padding: 30px;
+]
     border: 20px;
     -webkit-text-fill-color: rgb(127, 127, 127);
+    padding:0;
 }
 
 .form-group {
@@ -46,8 +47,9 @@ footer {
 }
 
 .portfolio {
-    width: 50%;
+   width: 100%;
     margin: auto;
+    background-color: white;
 }
 
 .card {
@@ -55,8 +57,20 @@ footer {
 }
 
 
-
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
     color: grey;
 }
 
+.card-body {
+background-color: white;
+width:%;
+align-content:auto;
+margin-top: 30px;
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        position: absolute;
+        right: 83px;
+    }
+}
