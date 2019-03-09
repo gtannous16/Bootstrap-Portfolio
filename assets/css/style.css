@@ -1,0 +1,45 @@
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 20px;
+    border: 30px;
+    border-color: #4aaaa5;
+    -webkit-text-fill-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    -webkit-text-fill-color: #4aaaa5;
+    padding: 40px 0 0 0;
+}
+
+.container {
+    padding: 30px;
+    border: 20px;
+    -webkit-text-fill-color: rgb(127, 127, 127);
+}
+
+.form-group {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    -webkit-text-fill-color: rgb(127, 127, 127);
+    
+}
+
+p {
+    -webkit-text-fill-color: rgb(127, 127, 127);
+}
+
+h2 {
+    -webkit-text-fill-color: white;
+    background-color: 
+}
+
+footer {
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 5px solid #4aaaa5;
+    padding: 35px;
+    clear: both;
+    background: #666666;
