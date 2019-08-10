@@ -1,2 +1,3 @@
 # Bootstrap-Portfolio
-Gabriella Tannous Homework 2
+
+Basic Trial Bootstrap Portfolio
